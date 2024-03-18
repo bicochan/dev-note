@@ -1,2 +1,2 @@
 # dev-note
-Things I thought about to write better code
+개발 도중 얻은 인사이트 또는 기억하고 싶은 것들의 모음
